@@ -1,16 +1,41 @@
-# app03_conversor_moedas
+# App Conversor de Moedas
+#### App desenvolvido como requisito do curso [Criação de Apps Android e iOS com Flutter - Daniel Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
 
-A new Flutter project.
+<br>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+App conversor entre moedas BRL, US$ e Euro, através da API gratuita do site hgbrasil.com
+Converte em qualquer direção com cotação sempre atualizada.
 
-A few resources to get you started if this is your first Flutter project:
+### Tecnologias utilizadas:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Dio
+- Http
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen](/imgs/screen02.png)
+
+<br>
+
+💬 [Meu linkedin](https://www.linkedin.com/in/isaias-gon%C3%A7alves-igs/)
+
+<hr>
+
+##### Outros Projetos Flutter:
+###### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz) (SetState, ValueNotifier, AnimationBuilder, share_plus)
+###### [Calculadora IMC](https://github.com/IsaBass/calcIMC) (SetState)
+<!--
+###### [Conversor de Moedas](https://github.com/IsaBass/conversor_moedas) (Dio, http)
+-->
+
+
+<!--
+## Meus Projetos Flutter:
+#### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz)
+- projeto da 5ª NLW , trilha Flutter
+- SetState, ValueNotifier, AnimationBuilder, shared_plus
+<!--
+#### [Calculadora IMC](https://github.com/IsaBass/calcIMC)
+- projeto inicial de aprendizado
+- SetState
+-->
+
