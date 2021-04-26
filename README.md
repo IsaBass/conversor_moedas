@@ -5,7 +5,8 @@
 
 
 App conversor entre moedas BRL, US$ e Euro, através da API gratuita do site hgbrasil.com
-Converte em qualquer direção com cotação sempre atualizada.
+
+Converte em qualquer direção com cotação em tempo real.
 
 ### Tecnologias utilizadas:
 
