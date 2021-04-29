@@ -23,6 +23,7 @@ Converte em qualquer direção com cotação em tempo real.
 
 ##### Outros Projetos Flutter:
 ###### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz) (SetState, ValueNotifier, AnimationBuilder, share_plus)
+###### [Agenda de Contatos](https://github.com/IsaBass/agenda_contatos)  (Banco SQL local, camera)
 ###### [Buscador de gifs](https://github.com/IsaBass/buscador_gifs) (share, http, transparent_image) 
 ###### [To-Do_Offline](https://github.com/IsaBass/todo_offline) (path_provider, json)
 ###### [Calculadora IMC](https://github.com/IsaBass/calcIMC) (SetState)
